@@ -8,7 +8,7 @@
 - Blogging on tech and science related stuff
 - 📫 How to reach me ...
 - 🌐website-- https://scientyficworld.org/
-- 📧support@scientyficworld.org
+- 📧snehasish@scientyficworld.org
 - Linked In- https://www.linkedin.com/in/snehasish-konger/
 - Instagram- https://www.instagram.com/snehasish_konger/?hl=en
 - 
