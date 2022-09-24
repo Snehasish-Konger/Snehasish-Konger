@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
 - Blogging on tech and science related stuff
 ## 📫 How to reach me ...
-- 🌐website-- <a href="https://scientyficworld.org/" rel="dofollow">Scientyfic World</a>
+- 🌐website-- <a href="https://scientyficworld.org/" rel="dofollow" target="_blank">Scientyfic World</a>
 - 📧snehasish@scientyficworld.org
 - Linked In- https://www.linkedin.com/in/snehasish-konger/
 - Instagram- https://www.instagram.com/snehasish_konger/?hl=en
