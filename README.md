@@ -1,5 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Snehasish Konger.
-**I'm a Tech Blogger & a React.js Developer. I'm the guy behind Scientyfic World. I'm learning SEO & helping other webmasters as well. I write for various different websites and publications. Also, I got lucky to get a chance to contribute to some of the top platforms, like Wikipedia & Google Dev Library.**
+|![peep-59](https://github.com/Snehasish-Konger/Snehasish-Konger/assets/87180847/d761432c-904e-42e6-add5-f03ea58487f3) |**I'm a Tech Blogger & a React.js Developer. I'm the guy behind Scientyfic World. I'm learning SEO & helping other webmasters as well. I write for various different websites and publications. Also, I got lucky to get a chance to contribute to some of the top platforms, like Wikipedia & Google Dev Library.**|
+| ---------------------- | ---------------------- |
+
+
 🌍  I live in India
 ## 👀 I’m interested in ...
 - Web Development
