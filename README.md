@@ -32,7 +32,7 @@
 - 📧 You can contact me at: snehasish@scientyficworld.org
 ### Follow me on social media...
 - [Linked In](https://www.linkedin.com/in/snehasish-konger/)
-- [Instagram](https://www.instagram.com/snehasish_konger/?hl=en)
+- [Instagram](https://www.instagram.com/lyad_khawa_bangali/?hl=en)
 - [Twitter](https://twitter.com/KongerSnehasish)
 - [Threads](https://www.threads.net/@lyad_khawa_bangali)
 
